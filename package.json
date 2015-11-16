@@ -1,0 +1,20 @@
+{
+  "name": "theme-watch",
+  "version": "1.0.0",
+  "description": "Watch and move files, designed to help with Wordpress theme development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wordpress",
+    "theme",
+    "watch",
+    "copy"
+  ],
+  "author": "Zach Wolf",
+  "license": "ISC",
+  "bin": {
+    "theme-watch": "index.js"
+  }
+}
