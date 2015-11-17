@@ -16,5 +16,14 @@
   "license": "ISC",
   "bin": {
     "theme-watch": "index.js"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs-extra": "^0.26.2",
+    "ncp": "^2.0.0",
+    "prompt": "^0.2.14"
+  },
+  "devDependencies": {
+    "watch": "^0.16.0"
   }
 }

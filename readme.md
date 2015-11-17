@@ -38,15 +38,6 @@ $ theme-watch
 +--------------------------------------------+
 > ~/wordpress-theme/build
 
-+--------------------------------------------+
-|                                            |
-| Great, when any files in that              |
-| directory change, they'll be copied here.  |
-|                                            |
-| Good luck! =^.^=                           |
-|                                            |
-+--------------------------------------------+
-
-Watching `~/wordpress-theme/build`...
+copied /Users/you/wordpress-theme/build/index.php -> /Users/you/dev-install/wp-content/themes/index.php
 ```
 
